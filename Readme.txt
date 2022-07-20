@@ -1,2 +1,2 @@
-Solve Your Mathematical Problems With <u>NumeX</u>
+Solve Your Mathematical Problems With NumeX
 
